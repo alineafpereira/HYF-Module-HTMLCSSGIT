@@ -1,0 +1,8 @@
+Hey, guys!
+So, to create folders using CLI, we need to input the command MKDIR on our terminal, followed by a nice name to our folder, like MKDIR FOLDERSNAME. Take a look on the screenshot I took of my terminal, please.
+To create nested folders, I know I could try the command in on line, putting more than one desired name to folders separating then with slashes, but for some unknown reason, my terminal just accept this command when he wants to. Because of that, I will try to do the one-line command and if comes up the weird message I am having, I will do the traditional more-than-one-line way, ok?
+And finally, to append context to a txt file that already has some content, we use the command ECHO, followed by the content we want to add to the document and finish with double greater than and the name of the file. Please, take another look on my screenshot.
+I guess that is all, folks! Thank you so much!
+Yay! With the -p it worked, even that I tried before with this same -p and didnt, but anyway, there it is, nested folder created using one-line-command. >> week1.txt
+
+
