@@ -1,0 +1,122 @@
+body {
+    font-family: lucida grande,sans-serif;
+}
+
+.cordefundo {
+    background-color: #DCDCDC;
+    
+}
+
+.coluna1 {
+    border-top: 5px solid #9A1750;
+    width: 400px;
+    float: left; 
+    margin-right: 0;
+    
+}
+
+.colunas {
+  float: right;
+  width: 900px;
+  margin-left:-30px;
+  margin-right: 2px;
+}
+.coluna2 {
+  border-top: 5px solid #EE4e7c;
+  float: left;
+  width: 420px;
+  margin-left: 0;
+           
+}
+
+.coluna3 {
+  float: right;
+  width: 420px;
+  border-top: 5px solid #fe7f9c;
+  margin-left: 2px;
+ 
+}
+
+.header {
+  width: 100%;
+  height: 100px;
+  background-color: #5d001e;
+  margin-top: -32px ;
+  padding: 0;
+  margin-bottom: 10px;
+  
+}
+
+.headertext {
+  font-size: 45px;
+  text-align: center;
+  padding-top: 20px;
+  color: #fe7f9c;
+  
+}
+.lista1 {
+  font-size: 18px;
+  line-height: 1.5em;
+  color: #696969;
+  list-style-type: square;
+  padding-left: 50px;
+  margin-left: 105px;
+}
+.listas {
+  font-size: 18px;
+  line-height: 1.5em;
+  color: #696963;
+  list-style-type: square;
+  padding-left: 50px;
+  margin-left: 30px;
+}
+
+.h2 {
+  font-size: 30px;
+  line-height: 1.5em;
+  color: #696969;
+  text-align: center;
+}
+.h3empresas{
+  font-size: 18px;
+  line-height: 1.5em;
+  margin-left: 25px;
+  color: #696969;
+  text-align: left;
+}
+
+.h3cargos {
+  font-size: 25px ;
+  line-height: 1.5em;
+  margin-left: 25px;
+  color: #696969;
+  text-align: left;
+}
+
+.xpp {
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-left: 25px;
+  margin-right: 15px;
+  color: #696969;
+  text-align: left;
+  
+}
+
+.photo {
+  width: 300px;
+  height: 390px;
+  margin-top: 30px;
+  margin-left: 80px;
+  border-radius: 20px white;
+  
+}
+
+.soft {
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-left: 58px;
+  margin-right: 15px;
+  color: #696969;
+  text-align:left;
+}
