@@ -41,7 +41,7 @@ h3 {
 }
 
 #grid-floats .grid-item {
-
+    width: 45%;
     background-color: #CECECE;
     float: left;
     margin-left: 10px;
@@ -60,7 +60,7 @@ h3 {
     margin-left: -25px;
     margin-bottom: 50px;
     box-sizing: border-box;
-    
+    height: 300px;
 }
     
 
@@ -69,10 +69,11 @@ h3 {
     flex-wrap: wrap;
     margin-top: 50px;
     margin-left: 0px;
-    
+    height: 300px;
 }
 
 #grid-flex .grid-item {
+    width: 45%;
     margin-left: 10px;
     margin-bottom: 12px;
     height: 300px;
@@ -114,13 +115,7 @@ P {
 
 /*MEDIA QUERY UNDER 600PX*/
 
-@media (max-width:600px) {
-
-
-    section {
-        width: 100%;
-    
-    }   
+@media (max-width:600px) {  
 
     #grid-floats .grid-item:nth-child(1) {
         width: 95%;
@@ -142,6 +137,7 @@ P {
         min-height: 400px;
         max-height: 600px;
         overflow: hidden;
+        
     
     }
 
@@ -155,7 +151,7 @@ P {
     }
 
     #grid-flex .grid-item {
-        min-width: 100px;
+        min-width: 50px;
         margin-left: -15px;
         margin-right: 25px;
         margin-top: 20px;
